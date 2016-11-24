@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="559.00362"
-     inkscape:cy="637.433"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="761.03413"
+     inkscape:cy="516.21469"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -119,7 +119,7 @@
            style="font-size:30px;text-align:start;text-anchor:start;fill:#646464;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara4144-7-6-5-2">de.NBI-epi</flowPara><flowPara
          id="flowPara5071">Freiburg</flowPara></flowRoot>    <flowRoot
-       transform="translate(992.36141,539.6602)"
+       transform="translate(992.36141,452.35737)"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#646464;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4138-9-7-7-9-0"
        xml:space="preserve"><flowRegion
@@ -148,7 +148,7 @@
        xml:space="preserve"
        id="flowRoot4138-9-7-7-9-3"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#646464;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(992.36141,370.86995)"><flowRegion
+       transform="translate(992.36141,327.21852)"><flowRegion
          id="flowRegion4140-9-2-8-6-4"><rect
            id="rect4142-4-1-3-5-2"
            width="257.72614"
@@ -1140,7 +1140,20 @@
            style="fill:#929497" />
       </g>
     </g>
-  </g>
+    <flowRoot
+       transform="translate(992.36141,583.31163)"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#646464;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4138-9-7-7-9-0-1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4140-9-2-8-6-9-5"><rect
+           style="font-size:30px;text-align:start;text-anchor:start;fill:#646464;fill-opacity:1"
+           y="-8.2725401"
+           x="-3.4269481"
+           height="184.83412"
+           width="322.01187"
+           id="rect4142-4-1-3-5-3-9" /></flowRegion><flowPara
+         id="flowPara4144-7-6-5-2-7-4">de.STAIR</flowPara><flowPara
+         id="flowPara5075-0">Leipzig</flowPara></flowRoot>  </g>
   <style
      id="style5169"
      type="text/css">
