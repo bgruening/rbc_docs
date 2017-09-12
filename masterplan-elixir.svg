@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.28338516"
      inkscape:cx="1541.8885"
-     inkscape:cy="877.6714"
+     inkscape:cy="1159.9727"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -840,19 +840,7 @@
          y="-265.67307"
          id="tspan3169-9"
          style="font-size:60px;line-height:0.94999999">de.NBI</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot7895"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-1174.6403,-868.87255)"><flowRegion
-         id="flowRegion7897"><rect
-           id="rect7899"
-           width="37.142857"
-           height="94.285713"
-           x="2575.7144"
-           y="963.89813" /></flowRegion><flowPara
-         id="flowPara7901"
-         style="font-size:60px;line-height:1.25"> </flowPara></flowRoot>  </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -1972,76 +1960,7 @@ jCIwydcwDKMITPI1DMMoApN8DcMwisAkX8MwjCL4/wGL41RnR939GQAAAABJRU5ErkJggg==
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="o5"
-     style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       x="2354.0789"
-       y="285.12308"
-       id="text3374-3-5-6"><tspan
-         style="font-size:60px;line-height:1.25"
-         sodipodi:role="line"
-         x="2354.0789"
-         y="285.12308"
-         id="tspan3412-8-0">- Training material in a box</tspan><tspan
-         style="font-size:60px;line-height:1.25"
-         sodipodi:role="line"
-         x="2354.0789"
-         y="360.12308"
-         id="tspan7842">- Tools</tspan><tspan
-         style="font-size:60px;line-height:1.25"
-         sodipodi:role="line"
-         x="2354.0789"
-         y="435.12308"
-         id="tspan7844">- Visualization</tspan><tspan
-         style="font-size:60px;line-height:1.25"
-         sodipodi:role="line"
-         x="2354.0789"
-         y="510.12308"
-         id="tspan7850">- Interactive Environment</tspan><tspan
-         style="font-size:60px;line-height:1.25"
-         sodipodi:role="line"
-         x="2354.0789"
-         y="585.12305"
-         id="tspan7856">- Tour: versioned, freezed,</tspan><tspan
-         style="font-size:60px;line-height:1.25"
-         id="tspan5106-6"
-         sodipodi:role="line"
-         x="2354.0789"
-         y="660.12305">             reproducible</tspan><tspan
-         style="font-size:60px;line-height:1.25"
-         sodipodi:role="line"
-         x="2354.0789"
-         y="735.12305"
-         id="tspan7884">- as Docker or VM</tspan><tspan
-         style="font-size:60px;line-height:1.25"
-         id="tspan5112-0"
-         sodipodi:role="line"
-         x="2354.0789"
-         y="810.12305">- scalable</tspan></text>
-    <g
-       id="g7935"
-       transform="translate(1267.4975,580.68875)">
-      <rect
-         y="-508.87753"
-         x="1052.7754"
-         height="137.30782"
-         width="809.32092"
-         id="rect3167-3-4"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:10.30157948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-      <text
-         id="text3374-3-4-6-2-1-6"
-         y="-420.77676"
-         x="1457.4651"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-         xml:space="preserve"><tspan
-           style="font-size:60px;line-height:0.94999999"
-           id="tspan3550-5-9-8-6"
-           y="-420.77676"
-           x="1457.4651"
-           sodipodi:role="line">Galaxy Flavours</tspan></text>
-    </g>
-  </g>
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer6"
