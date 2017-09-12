@@ -25,9 +25,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.28338516"
      inkscape:cx="1541.8885"
-     inkscape:cy="396.80802"
+     inkscape:cy="820.25998"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -809,14 +809,6 @@
          y="158.21925"
          style="font-size:60px;line-height:0.94999999;text-align:center;text-anchor:middle"
          id="tspan4209">data</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-       id="text3374-3-4-70"
-       transform="translate(-14,-22)"
-       x="655.20244"
-       y="516.35431"><tspan
-   id="tspan3550-8">de.STAIRS   RBC   de.NBI-epi</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:10.30157948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        d="m 354.76002,-123.68021 c -11.84299,16.41473 -36.74748,11.75179 -36.74748,11.75179 0,0 1.54074,23.110428 -22.86025,37.345971 -24.4015,14.23577 -31.86738,10.359436 -31.86738,10.359436 0,0 -2.00536,16.63322 -24.72775,31.449903 -22.72168,14.816314 -34.80373,-3.026241 -34.80373,-3.026241 0,0 -11.2608,22.467473 -37.63001,10.631805 -26.36986,-11.835193 -17.37656,-32.502595 -17.37656,-32.502595 0,0 -11.02011,-0.09732 -27.35898,-23.327961 -16.33861,-23.230858 9.75135,-37.700468 9.75135,-37.700468 0,0 -22.89392,-21.45269 -6.27898,-45.04503 16.61565,-23.59263 40.86148,-16.36919 40.86148,-16.36919 0,0 -0.61634,-13.50975 15.43142,-25.22497 16.04724,-11.71477 34.60465,-6.92817 34.60465,-6.92817 0,0 -0.31587,-18.29511 18.0887,-32.35927 18.40404,-14.0635 30.26444,-2.19754 30.26444,-2.19754 0,0 0.81056,-14.46589 28.44255,-17.21391 27.63171,-2.74784 28.09394,18.10804 28.09394,18.10804 0,0 14.86735,-7.91927 30.58349,5.6694 15.71638,13.58864 11.48983,32.36883 11.48983,32.36883 0,0 24.18211,5.67776 22.06261,27.57924 -2.11971,21.90138 -25.23305,24.21403 -25.23305,24.21403 0,0 7.05182,16.00231 -4.79065,32.4168 z"
