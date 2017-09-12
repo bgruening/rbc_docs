@@ -25,11 +25,11 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.28338516"
      inkscape:cx="1541.8885"
-     inkscape:cy="1159.9727"
+     inkscape:cy="736.52075"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
      inkscape:window-height="704"
@@ -744,7 +744,7 @@
          startOffset="50%"
          id="textPath3296"><tspan
    id="tspan3017-7"
-   style="font-weight:bold;font-size:57.91339111px;-inkscape-font-specification:'Arial Bold'">Docker     Conda   Modules  Mulled</tspan></textPath></text>
+   style="font-weight:bold;font-size:57.91339111px;-inkscape-font-specification:'Arial Bold'">BioContainers  Conda   Modules  Mulled</tspan></textPath></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -1001,12 +1001,12 @@
          x="-372.77902"
          y="-548.49512"
          id="tspan3378-1"
-         style="font-size:60px;line-height:1.20000005">biostars</tspan><tspan
+         style="font-size:60px;line-height:1.20000005">Biostars forum</tspan><tspan
          sodipodi:role="line"
          x="-372.77902"
          y="-476.49512"
          id="tspan8005"
-         style="font-size:60px;line-height:1.20000005">     ML</tspan><tspan
+         style="font-size:60px;line-height:1.20000005">     Mailing List</tspan><tspan
          sodipodi:role="line"
          x="-372.77902"
          y="-404.49512"
@@ -1401,16 +1401,6 @@ U3Hy4KH2nQAAAABJRU5ErkJggg==
    style="fill:#ff6600"
    id="tspan4075">Tools    </tspan> standards</tspan></textPath></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.91339111px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       id="text3015-6-7"
-       transform="matrix(1.0360298,0,0,1.0360298,1173.3968,585.48854)"><textPath
-         xlink:href="#path3023-2-4"
-         startOffset="50%"
-         id="textPath3296-9"><tspan
-   id="tspan3017-7-7"
-   style="font-weight:bold;font-size:57.91339111px;-inkscape-font-specification:'Arial Bold'">Docker     Conda   Modules  Mulled</tspan></textPath></text>
     <g
        style="display:inline;fill:#008000"
        transform="matrix(1.2539608,0,0,1.3362517,1921.0498,1025.1233)"
@@ -2186,18 +2176,7 @@ jCIwydcwDKMITPI1DMMoApN8DcMwisAkX8MwjCL4/wGL41RnR939GQAAAABJRU5ErkJggg==
            y="87.030685"
            style="font-family:sans-serif" /></flowRegion><flowPara
          id="flowPara4434"
-         style="font-size:10px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1175.3302"
-       y="137.31494"
-       id="text4436"><tspan
-         sodipodi:role="line"
-         id="tspan4438"
-         x="1175.3302"
-         y="137.31494"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold'">(400)</tspan></text>
-    <flowRoot
+         style="font-size:10px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4444"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -2210,16 +2189,5 @@ jCIwydcwDKMITPI1DMMoApN8DcMwisAkX8MwjCL4/wGL41RnR939GQAAAABJRU5ErkJggg==
            y="6.2184796"
            style="font-size:70px;font-family:sans-serif" /></flowRegion><flowPara
          id="flowPara4450"
-         style="font-size:70px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1290.6079"
-       y="67.360085"
-       id="text4436-6"><tspan
-         sodipodi:role="line"
-         id="tspan4438-0"
-         x="1290.6079"
-         y="67.360085"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold'">(4150)</tspan></text>
-  </g>
+         style="font-size:70px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>  </g>
 </svg>
