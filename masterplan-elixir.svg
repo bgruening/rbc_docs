@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.28338516"
      inkscape:cx="1541.8885"
-     inkscape:cy="736.52075"
+     inkscape:cy="877.6714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -730,21 +730,11 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czc" />
     <path
-       style="color:#000000;fill:#afc6e9;stroke:#2c5aa0;stroke-width:10.30157948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 984.7261,787.63156 c 0,0 -58.09086,-504.12025 -596.86896,-492.21167 -590.05777,13.04201 -592.86487,492.21167 -592.86487,492.21167 l 104.13854,0 c 0,0 -1.22862,-403.35188 488.72633,-412.62864 424.32674,-8.03417 502.73192,412.62864 502.73192,412.62864 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#afc6e9;stroke:#2c5aa0;stroke-width:10.30157948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 984.7261,787.63156 c 0,0 -58.09086,-504.12025 -596.86896,-492.21167 -590.05777,13.04201 -592.86487,492.21167 -592.86487,492.21167 h 104.13854 c 0,0 -1.22862,-403.35188 488.72633,-412.62864 424.32674,-8.03417 502.73192,412.62864 502.73192,412.62864 z"
        id="path3023-9-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccscc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.91339111px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="text3015-6"
-       transform="matrix(1.0360298,0,0,1.0360298,-14.100774,-29.200209)"><textPath
-         xlink:href="#path3023-2"
-         startOffset="50%"
-         id="textPath3296"><tspan
-   id="tspan3017-7"
-   style="font-weight:bold;font-size:57.91339111px;-inkscape-font-specification:'Arial Bold'">BioContainers  Conda   Modules  Mulled</tspan></textPath></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -840,6 +830,16 @@
          y="-265.67307"
          id="tspan3169-9"
          style="font-size:60px;line-height:0.94999999">de.NBI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.91339111px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="text3015-6"
+       transform="matrix(1.0360298,0,0,1.0360298,-14.100774,-29.200209)"><textPath
+         xlink:href="#path3023-2"
+         startOffset="50%"
+         id="textPath3296"><tspan
+   id="tspan3017-7"
+   style="font-weight:bold;font-size:57.91339111px;-inkscape-font-specification:'Arial Bold'">BioContainers   Conda   Modules</tspan></textPath></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1213,15 +1213,15 @@ U3Hy4KH2nQAAAABJRU5ErkJggg==
     <path
        transform="translate(1187.4975,614.68875)"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow2MendN);enable-background:accumulate"
-       d="M 492.28571,612.93361 801.9565,164.07503"
-       id="path3477-7-8-2-7-6"
+       d="M 412.85714,635.50504 500.16101,110.77117"
+       id="path3477-7-8-2-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        transform="translate(1187.4975,614.68875)"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow2MendN);enable-background:accumulate"
-       d="M 412.85714,635.50504 500.16101,110.77117"
-       id="path3477-7-8-2-7"
+       d="M 492.28571,612.93361 801.9565,164.07503"
+       id="path3477-7-8-2-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
@@ -1426,8 +1426,8 @@ U3Hy4KH2nQAAAABJRU5ErkJggg==
            style="font-size:54.07691574px;line-height:1.25;fill:#000000">GMOD</tspan></text>
     </g>
     <image
-       y="323.84866"
-       x="1602.9982"
+       y="23.903528"
+       x="2446.3733"
        id="image4033"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV8AAADtCAYAAAAYwHZLAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzt3Xd4nFeZ8P/vecoUFTfJVc1yTSchIb3TQhIIEEJgCQmwtKVkX9pL+7HlBZZlN9QFlrqQZIFU
@@ -1723,8 +1723,8 @@ X8MwjCIwydcwDKMITPI1DMMoApN8DcMwisAkX8MwjCIwydcwDKMITPI1DMMoApN8DcMwisAkX8Mw
 jCIwydcwDKMITPI1DMMoApN8DcMwisAkX8MwjCL4/wGL41RnR939GQAAAABJRU5ErkJggg==
 "
        preserveAspectRatio="none"
-       height="237"
-       width="351" />
+       height="568.70404"
+       width="725.04926" />
   </g>
   <g
      inkscape:groupmode="layer"
