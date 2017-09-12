@@ -27,7 +27,7 @@
      inkscape:cx="1541.8885"
      inkscape:cy="820.25998"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -662,6 +662,20 @@
          transform="scale(-0.6)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2MendN"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2MendN-60"
+       style="overflow:visible">
+      <path
+         id="path4775-62"
+         style="fill:#2c5aa0;fill-rule:evenodd;stroke:#2c5aa0;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <metadata
      id="metadata2992">
@@ -922,16 +936,26 @@
          x="-1143.0732"
          y="91.006264"
          style="font-size:60px;line-height:1.75" /><tspan
-         id="tspan5110"
-         sodipodi:role="line"
-         x="-1143.0732"
-         y="156.93434"
-         style="font-size:60px;line-height:1.75">- example data +</tspan><tspan
          id="tspan5112"
          sodipodi:role="line"
          x="-1143.0732"
+         y="156.93434"
+         style="font-size:60px;line-height:1.75">- example data material</tspan><tspan
+         sodipodi:role="line"
+         x="-1143.0732"
          y="261.93436"
-         style="font-size:60px;line-height:1.75">  material</tspan></text>
+         style="font-size:60px;line-height:1.75"
+         id="tspan4294">- virtualised training</tspan><tspan
+         sodipodi:role="line"
+         x="-1143.0732"
+         y="366.93436"
+         style="font-size:60px;line-height:1.75"
+         id="tspan4296">  instances</tspan><tspan
+         sodipodi:role="line"
+         x="-1143.0732"
+         y="471.93436"
+         style="font-size:60px;line-height:1.75"
+         id="tspan4298">- e-learning</tspan></text>
     <path
        transform="translate(1187.4975,614.68875)"
        style="color:#000000;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow2MendN);visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1998,17 +2022,16 @@ qXZX47tn89pTu6dH8nf/f7JC3vF+eSyOAAAAAElFTkSuQmCC
      inkscape:label="o3"
      style="display:inline">
     <path
-       transform="translate(1187.4975,614.68875)"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow2MendN);enable-background:accumulate"
-       d="M 412.85714,635.50504 500.16101,110.77117"
-       id="path3477-7-8-2-7"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow2MendN-60);enable-background:accumulate"
+       d="M 1666.3769,1223.64 1976.0477,774.78144"
+       id="path3477-7-8-2-7-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        transform="translate(1187.4975,614.68875)"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow2MendN);enable-background:accumulate"
-       d="M 492.28571,612.93361 801.9565,164.07503"
-       id="path3477-7-8-2-7-6"
+       d="M 412.85714,635.50504 500.16101,110.77117"
+       id="path3477-7-8-2-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
