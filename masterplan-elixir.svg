@@ -1992,14 +1992,14 @@ qXZX47tn89pTu6dH8nf/f7JC3vF+eSyOAAAAAElFTkSuQmCC
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.95919132px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91326594;marker:none;enable-background:accumulate"
-       x="248.3459"
-       y="1663.8036"
+       x="238.44499"
+       y="1784.541"
        id="text3374-3-4-6-2-6"
        transform="scale(1.0080752,0.99198948)"><tspan
          style="font-size:54.79595566px;line-height:0.94999999;fill:#ff6600;stroke-width:0.91326594"
          sodipodi:role="line"
-         x="248.3459"
-         y="1663.8036"
+         x="238.44499"
+         y="1784.541"
          id="tspan3550-5-9-1">Data</tspan></text>
     <text
        xml:space="preserve"
@@ -2322,6 +2322,12 @@ jCIwydcwDKMITPI1DMMoApN8DcMwisAkX8MwjCL4/wGL41RnR939GQAAAABJRU5ErkJggg==
      inkscape:label="o3"
      style="display:inline">
     <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:6.99792433;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow2MendN-37);enable-background:accumulate"
+       d="m 1746.8075,1293.8777 443.4154,-201.9243"
+       id="path3477-7-8-2-7-6-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:7.30612755;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow2MendN-60);enable-background:accumulate"
        d="M 1660.0956,1174.4909 1945.1912,767.84743"
        id="path3477-7-8-2-7-6"
@@ -2503,7 +2509,7 @@ jCIwydcwDKMITPI1DMMoApN8DcMwisAkX8MwjCL4/wGL41RnR939GQAAAABJRU5ErkJggg==
            startOffset="50%"
            xlink:href="#path3023-5-5"><tspan
    style="font-size:58.56262589px"
-   id="tspan3017-8-1-5">tools-iuc     <tspan
+   id="tspan3017-8-1-5">EDAM         <tspan
    style="fill:#ff6600"
    id="tspan4075">Tools    </tspan> standards</tspan></textPath></text>
     </g>
@@ -2981,12 +2987,6 @@ RK5CYII=
        preserveAspectRatio="none"
        height="78.348572"
        width="79.619049" />
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:6.99792433;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow2MendN-37);enable-background:accumulate"
-       d="m 1746.8075,1293.8777 443.4154,-201.9243"
-       id="path3477-7-8-2-7-6-8-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.95919132px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.91326594"
