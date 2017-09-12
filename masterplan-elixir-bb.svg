@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.40076714"
-     inkscape:cx="1674.8157"
+     inkscape:cx="1718.482"
      inkscape:cy="1044.6483"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -1658,16 +1658,6 @@
        sodipodi:end="6.272092"
        d="M -9.6911292,296.46961 A 379.69263,234.66296 0 0 1 371.06043,65.78705 379.69263,234.66296 0 0 1 749.61616,297.84587"
        sodipodi:open="true" />
-    <image
-       style="display:inline"
-       y="-553.40033"
-       x="587.59833"
-       id="image4104-7"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABzCAYAAABn2gcNAAAABHNCSVQICAgIfAhkiAAABNpJREFU eJzt3L9v20YUB/D37pRIHoUsjTwEcIcmLtRBNLeO9iQ4kEM4f4I8doz+BGXtZo8Zbdgu0HSSx2Sy FCAoUBsI4NECsnilgZKvg9TGTayTeLw7/tD7jEl4d7gLH788kgJgjDHGGGOMMcYYY4wxxhhjjDHG GGOMMcZskX7QlX4wBD9Yc9Unuuoo91odT0g5AKI6IN7EUbQFH34b2e5W2u6gEO5O/sQKCrErHj+9 ovHlXza75gVotuvy4cNDIPq67KwA4q5YXR/T9YW1M2G5F6DZrstabUBEnuJfbePjpyGNL9/bGIKw 0WhRiGq1P2fyJxD7YuPFvo0xLO1FeDqh3UQHIR7FYbgHf/5xY2ocS7kA0g+6RKT1PxoRR1EYbpla hKUrQWkmHwCAiDxRrQ6h1ZlfuhawXGfAt3FTn6F7heVJQSYnf2Jyr7C6fpMmpi7HAszO+mmtAMB2 mnuF8i/AYlk/rW1sPGvQ9cXbpAeW/iK8cNZPr6tzr1DqBdDK+ikgYuIyVNoFkH7QBYeTD0S96Pz4 IOlhpYyhabO+hoN4eLKnc2D5FsB83FQigDManmzpHl+uEuR48hFxRLe3L1O1YWowmXMTN79AvInD 8Pu0e0LlOAOymPwoMrIhV4oFcJj1J/0BvDT1vLjwC5BB1t/7+/z4zFR7hV6AomR9FfsL0GxbSSSZ ZP3R6WvTjdrdjGu266JaHWLj2Y/0aO09fP4UGmm31fFQiDcw2Y20bpr1U8XNWayeAaJW2weANQDo ylptYOQpUgGzvoq1M0B4O68A4Jc7f9RI/QDD3r7+/SZZf8PkQ/iv2VmASYk4vOdvVuDfvXONkiSf /PTOedb/+PuVzW7Ml6Bmuy7un/y7EpcksfFiv6hZf04/hhv8UveViMgTUg6mpUrdph/0ocBZX9mX ycaEt/MKEPvJRzH7hSfncZOoZyNuzmJuAVodTwgxTNHCVRzH/zvtpbezS4jzyplJ2vv6usxchJvt unjwYAAAaaJhHRG7/70I2+p4KOUhlCDrq1RMNCJqtX1j0RCxL/zAA4BNl1k/DkPnkw9goARp1/28 MLSvrytVCar4wSYBvDE1GOccZX0V/QVotutQqbwDRzXaBoH4PB6dWvnwYuEx6B6I1eqhqxptg8us r6J1EZ7ePG0aHos7RL1oeGJ0X19X4otwxQ82Y6KBjcE44jzrqyQuQRHR3K2DvCKAszxNPoDGAkz3 xnNx+iZhe19fl/Z9gPSDLgH0C3Ehzjjrq2jHULq+GNF3P5wJITwAaBgck1k5yPoq6faCxpdjerR2 hJVKHQCc7dUnkYesr5J+M+7zp5CuL96K1fUxIP4MOboxQ8S96Pz4KOtxqBh7JJm7kkTUi4cnv2Y9 jHnMPhPOT0k6iEenvQz7X5i1t6OzSklp39d3zdp7QdH58UEcRVs6303pymvWV7H7ZpzLkuTgHR4b 7H8n7CIl5Tzrqzj7UNtmSsp71ldx+6W8hZJUhKyv4v6nCkyWpIJkfZVsP9JrdTwppe4rh7na19eV 7Y91aJakrN7hsSH7X0tJWJIQcRTf3j439rFHxvL1nfC8kpTjfX1d2Z8Bd6lKUoGzvkq+FgBgZkkq ctYvrlbHk34wnH6OyhhjjDHGGGOMMcYYY4wxxhhjjDHGGGOMMcbU/gHvZlTKSuEYEgAAAABJRU5E rkJggg== "
-       preserveAspectRatio="none"
-       height="104.18427"
-       width="88.381516"
-       transform="rotate(43.412173)" />
     <g
        id="g6775"
        transform="translate(-462.80671,459.72491)">
@@ -1731,18 +1721,21 @@
        d="M -167.30691,429.68466 C -164.84589,326.45972 -105.36661,228.07238 -1.7324009,155.80048 101.9018,83.528581 241.36112,43.181124 386.48523,43.483897 c 145.1241,0.302773 284.24836,41.23144 387.28489,113.934513 103.03654,72.70308 161.7036,171.33691 163.31348,274.57034"
        sodipodi:open="true"
        inkscape:path-effect="#path-effect6424-2" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:55px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="text6826"><textPath
-         xlink:href="#path5551-4-6"
-         startOffset="50%"
-         id="textPath6832"><tspan
+    <g
+       id="g439">
+      <text
+         id="text6826"
+         style="font-style:normal;font-weight:normal;font-size:55px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><textPath
+           id="textPath6832"
+           startOffset="50%"
+           xlink:href="#path5551-4-6"><tspan
    id="tspan6828"><tspan
-     id="tspan6830"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+     x="-179.67517"
      y="-374.05087"
-     x="-179.67517">BioContainers                 Conda                           Modules</tspan></tspan></textPath></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial"
+     id="tspan6830">BioContainers                 Conda                           Modules</tspan></tspan></textPath></text>
+    </g>
     <g
        style="display:inline"
        id="g6360-1"
