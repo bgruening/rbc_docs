@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28338516"
+     inkscape:zoom="0.40076714"
      inkscape:cx="1541.8885"
-     inkscape:cy="1206.3587"
+     inkscape:cy="853.4821"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1181,14 +1181,6 @@ U3Hy4KH2nQAAAABJRU5ErkJggg==
        preserveAspectRatio="none"
        height="104.18427"
        width="88.381516" />
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:10.85831165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-end:url(#Arrow2MendN-53);enable-background:accumulate"
-       d="M 1091.9005,816.99485 668.00799,448.13607"
-       id="path3477-7-6-5-1-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:transform-center-x="20.955167"
-       inkscape:transform-center-y="75.821793" />
     <image
        y="1325.9387"
        x="197.86934"
@@ -3376,12 +3368,17 @@ RK5CYII=
          style="font-size:54.79595566px;line-height:0.94999999;stroke-width:0.91326594">        Openstack </tspan><tspan
          sodipodi:role="line"
          x="1737.1218"
-         y="1792.8171"
+         y="1831.1086"
+         style="font-size:54.79595566px;line-height:0.94999999;stroke-width:0.91326594"
+         id="tspan4411">             GCE</tspan><tspan
+         sodipodi:role="line"
+         x="1737.1218"
+         y="1844.8733"
          style="font-size:54.79595566px;line-height:0.94999999;stroke-width:0.91326594"
          id="tspan4401" /><tspan
          sodipodi:role="line"
          x="1737.1218"
-         y="1831.1086"
+         y="1883.1648"
          id="tspan7770-1"
          style="font-size:54.79595566px;line-height:0.94999999;stroke-width:0.91326594"> </tspan></text>
     <path
