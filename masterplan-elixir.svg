@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.28338516"
      inkscape:cx="1541.8885"
-     inkscape:cy="1306.2783"
+     inkscape:cy="600.52499"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -2579,6 +2579,19 @@ MdlLwPM8BpbFfwBf4PKeqdufbAAAAABJRU5ErkJggg==
        preserveAspectRatio="none"
        height="622.15332"
        width="959.33026" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
+       x="1412.797"
+       y="1551.7936"
+       id="text3374-3-4-6-2-3-8"
+       inkscape:transform-center-x="592.83274"
+       inkscape:transform-center-y="-3.5287663"><tspan
+         style="font-size:60px;line-height:0.94999999;fill:#000000"
+         sodipodi:role="line"
+         x="1412.797"
+         y="1551.7936"
+         id="tspan3550-5-9-6-7">ELIXIR AAI</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3256,7 +3269,7 @@ RK5CYII=
     <g
        style="display:inline"
        id="g7063"
-       transform="translate(1197.4975,474.68875)">
+       transform="translate(1197.4975,546.68875)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -3326,115 +3339,77 @@ RK5CYII=
            sodipodi:role="line"
            style="font-size:60px;line-height:1.25">Private Cloud</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1188.8806"
-       y="1684.1936"
-       id="text3374-4"><tspan
-         sodipodi:role="line"
-         x="1188.8806"
-         y="1684.1936"
-         id="tspan3378-7"
-         style="font-size:60px;line-height:0.94999999">de.NBI</tspan><tspan
-         sodipodi:role="line"
-         x="1188.8806"
-         y="1741.1936"
-         id="tspan7103"
-         style="font-size:60px;line-height:0.94999999">   cloud</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1232.7439"
-       y="1684.1936"
-       id="text3374-4-4"><tspan
-         sodipodi:role="line"
-         x="1232.7439"
-         y="1684.1936"
-         id="tspan7103-7"
-         style="font-size:60px;line-height:0.94999999">Nemo</tspan></text>
     <ellipse
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:11.60081673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="path7131"
        cx="1557.8572"
-       cy="1803.5714"
+       cy="1875.5714"
        rx="172.9218"
        ry="92.921814" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="1557.1101"
-       y="1796.5607"
+       y="1868.5607"
        id="text3374-4-7"><tspan
          sodipodi:role="line"
          x="1557.1101"
-         y="1796.5607"
+         y="1868.5607"
          id="tspan7103-3"
          style="font-size:60px;line-height:0.94999999">Galaxy</tspan><tspan
          sodipodi:role="line"
          x="1557.1101"
-         y="1853.5607"
+         y="1925.5607"
          id="tspan7398"
          style="font-size:60px;line-height:0.94999999">Flavours</tspan></text>
     <path
        id="path3477-6-2-5-4-8-1"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 1575.7261,1640.1938 14.2857,57.4286 m -45.6,-57.4286 -14.2857,57.4286 m -17.0286,-57.4286 -40.8571,64.7143 m 134.7999,-64.7143 40.8572,64.7143 m -9.5429,-64.7143 71.4286,91.4286 m -228,-91.4286 -71.4286,91.4286"
+       d="m 1575.7261,1712.1938 14.2857,57.4286 m -45.6,-57.4286 -14.2857,57.4286 m -17.0286,-57.4286 -40.8571,64.7143 m 134.7999,-64.7143 40.8572,64.7143 m -9.5429,-64.7143 71.4286,91.4286 m -228,-91.4286 -71.4286,91.4286"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="1765.2797"
-       y="1689.2325"
+       y="1761.2325"
        id="text3374-2-1"><tspan
          sodipodi:role="line"
          x="1765.2797"
-         y="1689.2325"
+         y="1761.2325"
          id="tspan3378-5-3"
          style="font-size:60px;line-height:0.94999999">Amazon</tspan><tspan
          sodipodi:role="line"
          x="1765.2797"
-         y="1746.2325"
+         y="1818.2325"
          id="tspan7803"
          style="font-size:60px;line-height:0.94999999">    Azure</tspan><tspan
          sodipodi:role="line"
          x="1765.2797"
-         y="1803.2325"
-         id="tspan7805"
-         style="font-size:60px;line-height:0.94999999">        Openstack</tspan><tspan
-         sodipodi:role="line"
-         x="1765.2797"
-         y="1860.2325"
-         id="tspan7807"
-         style="font-size:60px;line-height:0.94999999">           Elixir</tspan><tspan
-         sodipodi:role="line"
-         x="1765.2797"
-         y="1917.2325"
+         y="1875.2325"
          id="tspan7801"
-         style="font-size:60px;line-height:0.94999999"> </tspan><tspan
+         style="font-size:60px;line-height:0.94999999">        Openstack </tspan><tspan
          sodipodi:role="line"
          x="1765.2797"
-         y="1974.2325"
+         y="1932.2325"
          id="tspan7770-1"
          style="font-size:60px;line-height:0.94999999"> </tspan></text>
     <path
        id="path3477-6-2-5-4-8-1-2"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#3771c8;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 1575.726,1640.1938 14.2857,57.4286 m -45.6,-57.4286 -14.2857,57.4286 m -17.0285,-57.4286 -40.8572,64.7143 m 134.8,-64.7143 40.8572,64.7143 m -9.5429,-64.7143 71.4286,91.4286 m -228,-91.4286 -71.4286,91.4286"
+       d="m 1575.726,1712.1938 14.2857,57.4286 m -45.6,-57.4286 -14.2857,57.4286 m -17.0285,-57.4286 -40.8572,64.7143 m 134.8,-64.7143 40.8572,64.7143 m -9.5429,-64.7143 71.4286,91.4286 m -228,-91.4286 -71.4286,91.4286"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       x="1226.5549"
-       y="1748.5603"
-       id="text3374-4-4-9"><tspan
+       style="font-style:normal;font-weight:normal;font-size:48px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1535.0133"
+       y="1518.6224"
+       id="text4381"><tspan
          sodipodi:role="line"
-         x="1226.5549"
-         y="1748.5603"
-         id="tspan4401"
-         style="font-size:60px;line-height:0.94999999">binAC</tspan></text>
+         id="tspan4379"
+         x="1535.0133"
+         y="1527.4701" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
