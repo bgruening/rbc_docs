@@ -25,9 +25,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.28338516"
      inkscape:cx="1541.8885"
-     inkscape:cy="882.8263"
+     inkscape:cy="600.52499"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -840,13 +840,12 @@
      inkscape:label="o2"
      style="display:inline">
     <rect
-       transform="translate(1187.4975,614.68875)"
-       y="-270.85724"
-       x="-998.96057"
+       y="343.83151"
+       x="169.41185"
        height="131.73703"
-       width="220.63054"
+       width="270.88071"
        id="rect3167-0"
-       style="opacity:0.70999995;color:#000000;fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:10.30157948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.70999995;fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:11.41458321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#afc6e9;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:10.30157948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect3167"
@@ -878,22 +877,21 @@
          y="-310.50238"
          style="font-size:72px;line-height:1.25">+</tspan></text>
     <text
-       transform="translate(1187.4975,614.68875)"
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
-       x="-989.99384"
-       y="-208.77675"
+       x="181.50366"
+       y="403.91199"
        id="text3374-3-4-6-2-5"><tspan
          sodipodi:role="line"
-         x="-989.99384"
-         y="-208.77675"
+         x="181.50366"
+         y="403.91199"
          id="tspan3550-5-9-80"
          style="font-size:52px;line-height:0.94999999">- GTN</tspan><tspan
          sodipodi:role="line"
-         x="-989.99384"
-         y="-159.37675"
+         x="181.50366"
+         y="453.31198"
          id="tspan3352"
-         style="font-size:52px;line-height:0.94999999">- Goblet</tspan></text>
+         style="font-size:52px;line-height:0.94999999">- GOBLET</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
